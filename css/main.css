@@ -369,8 +369,7 @@ body {
 .flower__light--8 span {
   left: -6vmin;
   -webkit-animation-delay: 1s;
-  animation-delay: 10s;
-  filter: blur(0); 
+ 
 
 }
 
